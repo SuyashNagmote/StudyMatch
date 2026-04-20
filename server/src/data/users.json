@@ -1,0 +1,1621 @@
+[
+  {
+    "_id": "bf46958c-dda8-4b3d-a783-a278a11dab26",
+    "email": "alice@campus.edu",
+    "password": "$2a$10$7eY3l0GX0ZhEE/HGdYsVBOVX4D2GbTO44FYi5O41ww390lxcot0x.",
+    "name": "Alice Chen",
+    "interests": [
+      "AI",
+      "Machine Learning",
+      "Python",
+      "Deep Learning"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Visual",
+    "availability": [
+      "Mon Evening",
+      "Wed Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.664Z",
+    "updatedAt": "2026-04-16T10:50:11.664Z"
+  },
+  {
+    "_id": "d34cf5ff-122b-44aa-af18-d11d6b383f7f",
+    "email": "ben@campus.edu",
+    "password": "$2a$10$.5ryTMV1ZoqmVjKPNFgII.aRukVYMothKgmZfafiOrbFl3kS1I.pC",
+    "name": "Ben Carter",
+    "interests": [
+      "AI",
+      "DSA",
+      "Hackathons",
+      "Good Speaker"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Tue Evening",
+      "Thu Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.664Z",
+    "updatedAt": "2026-04-16T10:50:11.664Z"
+  },
+  {
+    "_id": "6edb49f9-7134-499b-a180-e8c8b934faa6",
+    "email": "maya@campus.edu",
+    "password": "$2a$10$jocc2c3cVMxQ8YeO7FilYO7XjpCR1xzgPvu2yMRmKW46ZiiRdt1dW",
+    "name": "Maya Singh",
+    "interests": [
+      "Data Science",
+      "Python",
+      "Statistics",
+      "Data Visualization"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Mon Evening",
+      "Thu Afternoon"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.664Z",
+    "updatedAt": "2026-04-16T10:50:11.664Z"
+  },
+  {
+    "_id": "99f602c6-6b0b-4055-9391-057c57d01c0b",
+    "email": "rahul@campus.edu",
+    "password": "$2a$10$oIpEcZvMmN595T3oY.cR9e8Hko0TCgse1VSOEBq5mSeRZH7drd/f2",
+    "name": "Rahul Nair",
+    "interests": [
+      "System Design",
+      "DSA",
+      "Backend",
+      "Good Speaker"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Wed Evening",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.664Z",
+    "updatedAt": "2026-04-16T10:50:11.664Z"
+  },
+  {
+    "_id": "b061143f-2390-4a11-83cc-9013bb99e4f5",
+    "email": "zoe@campus.edu",
+    "password": "$2a$10$aQ.AhfRp1YXIPd4KgBcWReL7rU0HCzA/PW3R5UN3ftOGgQewqZLX.",
+    "name": "Zoe Martinez",
+    "interests": [
+      "UI/UX",
+      "Frontend",
+      "Hackathons",
+      "Design Systems"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Tue Afternoon",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.664Z",
+    "updatedAt": "2026-04-16T10:50:11.664Z"
+  },
+  {
+    "_id": "fcd4bca2-d53e-4eb0-af93-349f36b30a1a",
+    "email": "noah@campus.edu",
+    "password": "$2a$10$bElPsvz8KG2OAUO8DXjOded//aJSIo7ixfqou7s1FPHDHGHrNYBym",
+    "name": "Noah Patel",
+    "interests": [
+      "AI",
+      "Data Science",
+      "Statistics",
+      "Machine Learning"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Visual",
+    "availability": [
+      "Mon Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.664Z",
+    "updatedAt": "2026-04-16T10:50:11.664Z"
+  },
+  {
+    "_id": "6df81caf-05d3-40f4-a66c-c580ba9a772f",
+    "email": "kiara@campus.edu",
+    "password": "$2a$10$MFyrDah5HwtW1Je15FA/KuDC3WGPDzdlvI71AEbajUvZWd/5BogJu",
+    "name": "Kiara Mehta",
+    "interests": [
+      "Deep Learning",
+      "Computer Vision",
+      "AI",
+      "Generative AI"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Visual",
+    "availability": [
+      "Tue Evening",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.664Z",
+    "updatedAt": "2026-04-16T10:50:11.664Z"
+  },
+  {
+    "_id": "839cfd1d-8404-45d7-8d61-27923729ef18",
+    "email": "arjun@campus.edu",
+    "password": "$2a$10$wCI8oLX1ZZW28.pGPZTeuuRxRJb1kVEom/DtzFti/dyJgfFyquUwq",
+    "name": "Arjun Verma",
+    "interests": [
+      "Generative AI",
+      "Python",
+      "Machine Learning",
+      "Prompt Engineering"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Mon Evening",
+      "Thu Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.664Z",
+    "updatedAt": "2026-04-16T10:50:11.664Z"
+  },
+  {
+    "_id": "ac46449b-4f58-4bf0-8906-c28d1ccc7c8a",
+    "email": "tanya@campus.edu",
+    "password": "$2a$10$n9HubtO6fJ1nHl5jYyVdHuYu9xcMBINWeJGhQ11Y0h9.f4UxvUXxO",
+    "name": "Tanya Kapoor",
+    "interests": [
+      "Data Science",
+      "SQL",
+      "Analytics",
+      "Business Intelligence"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Wed Afternoon",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.664Z",
+    "updatedAt": "2026-04-16T10:50:11.664Z"
+  },
+  {
+    "_id": "05bb07c7-7148-45f3-b3bf-8f197abc6f2a",
+    "email": "omar@campus.edu",
+    "password": "$2a$10$ZhqxmzA1jb/kovTC50eutea8qF4x6jN8Pd3qbn2s4jqzO355EtKyS",
+    "name": "Omar Sheikh",
+    "interests": [
+      "Statistics",
+      "Data Visualization",
+      "Python",
+      "Good Speaker"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Visual",
+    "availability": [
+      "Tue Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "0f359a1e-1a39-4b04-abc4-346d039a4b75",
+    "email": "nisha@campus.edu",
+    "password": "$2a$10$CsGQ7zDfVnZcHcBxZCzDceTBztziogso337R.VuEGt5m91im24ziW",
+    "name": "Nisha Rao",
+    "interests": [
+      "Backend",
+      "Node.js",
+      "APIs",
+      "Microservices"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Mon Evening",
+      "Wed Evening",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "2b16d850-b4c8-49f4-978b-be4d09268fbb",
+    "email": "vivek@campus.edu",
+    "password": "$2a$10$s7GLUw6BWPTqOhH2yAkRkOKW4cHIM80IZKcdwvzTfOKkqk0u45RfK",
+    "name": "Vivek Joshi",
+    "interests": [
+      "System Design",
+      "Databases",
+      "Cloud",
+      "DevOps"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Tue Evening",
+      "Thu Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "27cac0e7-8837-4395-9858-5bd0628cb638",
+    "email": "meera@campus.edu",
+    "password": "$2a$10$C1Ey3B7qdNsLrjzRQ.CMPufutGXUIoGDto6cOEbdi18TXEhi8RE3e",
+    "name": "Meera Iyer",
+    "interests": [
+      "Java",
+      "Backend",
+      "Microservices",
+      "Spring Boot"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Mon Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "ad07abd7-90f5-47cb-a1b9-dafa98006728",
+    "email": "sana@campus.edu",
+    "password": "$2a$10$AubNrTylsDGTGckHkMtkdupw9GyzUISWvbDugIy0tYAgXGHyaIUqu",
+    "name": "Sana Khan",
+    "interests": [
+      "Frontend",
+      "React",
+      "UI Engineering",
+      "TypeScript"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Tue Afternoon",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "f371885b-4d7a-4494-9c59-661e28187508",
+    "email": "ethan@campus.edu",
+    "password": "$2a$10$vQd8xtoZIIkqFvhJaz4.eO5ZZebrKuIvhmR5JXaRoiitsnRi.9RYq",
+    "name": "Ethan Brooks",
+    "interests": [
+      "UI/UX",
+      "Design Systems",
+      "Frontend",
+      "Figma"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Visual",
+    "availability": [
+      "Wed Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "2cc42c90-a56f-4497-95d7-0a76a69f6249",
+    "email": "isha@campus.edu",
+    "password": "$2a$10$b5Q/BH8UfLUk0nbntgY8leruUhr65tSZ2FbB295ol0BRDqRSTqxSy",
+    "name": "Isha Bansal",
+    "interests": [
+      "React",
+      "TypeScript",
+      "Frontend",
+      "Next.js"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Mon Evening",
+      "Thu Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "66759263-e31d-4d95-bbf6-f41a7e95e0a7",
+    "email": "daniel@campus.edu",
+    "password": "$2a$10$A/lQplyuDn051jINydj31.noV0jhfA6OShTcBJPIx2xyfCOITWKBa",
+    "name": "Daniel Lee",
+    "interests": [
+      "UI/UX",
+      "Product Design",
+      "Accessibility",
+      "Good Speaker"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Visual",
+    "availability": [
+      "Tue Evening",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "2becfb0d-be43-4d7a-9a74-4dc7d3902c62",
+    "email": "priya@campus.edu",
+    "password": "$2a$10$3nZrdD6IxaRKajDmYmksiuXkdOlpwTZhbgwEQD1ewoc/47SxrSSle",
+    "name": "Priya Menon",
+    "interests": [
+      "Mobile",
+      "Flutter",
+      "UI/UX",
+      "Cross-platform"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Wed Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "4f5d7a8e-205c-4ede-9999-4919e105e046",
+    "email": "aditya@campus.edu",
+    "password": "$2a$10$JLGWiLTuyXs36T9np7z/luzWz9o9G7ZEg71z22QS4SmKw.NO8Ju5a",
+    "name": "Aditya Kulkarni",
+    "interests": [
+      "Android",
+      "Kotlin",
+      "Mobile",
+      "Native Development"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Tue Evening",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "53dd880b-e68e-4b5d-816d-64ba6a3e25bb",
+    "email": "rhea@campus.edu",
+    "password": "$2a$10$tXBwjJURnNRcYUiccG5js.GqPTbQFMqjKV2hzFNYh9.XSUhO4Ii5e",
+    "name": "Rhea Thomas",
+    "interests": [
+      "iOS",
+      "Swift",
+      "Mobile",
+      "SwiftUI"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Mon Evening",
+      "Thu Afternoon"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "ced4c6e6-a6ff-4b35-99fe-0b0de3be7cfb",
+    "email": "kabir@campus.edu",
+    "password": "$2a$10$Xb5jardFdaJnM1pOJbchnuLHf5libM7jP0501XB0NToOoT72jKaTu",
+    "name": "Kabir Arora",
+    "interests": [
+      "Cybersecurity",
+      "Networks",
+      "Linux",
+      "Ethical Hacking"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Wed Evening",
+      "Fri Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "a1eab8e7-54f1-4526-b40a-6a17f96ca4e0",
+    "email": "anjali@campus.edu",
+    "password": "$2a$10$03Kgfa1pUf8oDiLg7ygadOt1OvvoradSyK4FpluMlzZfRmx/KXTiG",
+    "name": "Anjali Deshmukh",
+    "interests": [
+      "Cloud",
+      "DevOps",
+      "Docker",
+      "CI/CD"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Tue Evening",
+      "Thu Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "ec5c34dc-d957-41c6-a179-d2e4dfb11e20",
+    "email": "harry@campus.edu",
+    "password": "$2a$10$JnLpyFI/9Vzsw341HKDI7ug/cnbFRdGpghbatNhPkIWqFrfzcQtfe",
+    "name": "Harry Wilson",
+    "interests": [
+      "Cloud",
+      "Kubernetes",
+      "Backend",
+      "Good Speaker"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Mon Evening",
+      "Wed Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "dd5dafec-a9a3-4bb5-bf1d-10a90fd09d3c",
+    "email": "lavanya@campus.edu",
+    "password": "$2a$10$8wIwOMq3Nz2tXNBwcZkq7OLdY9uUbV1cjHJc50oIvcATWDQz/slLG",
+    "name": "Lavanya N",
+    "interests": [
+      "Product Management",
+      "Analytics",
+      "UI/UX",
+      "Leadership"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Tue Afternoon",
+      "Thu Afternoon",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "1969b009-eed0-4b3d-b137-f7260e728b09",
+    "email": "samir@campus.edu",
+    "password": "$2a$10$evwzv9/cAGVqB2zDQSdtR.28Tsg9EH/WS8glb4KwQ8ETfLoZZM1Q6",
+    "name": "Samir Ghosh",
+    "interests": [
+      "Hackathons",
+      "AI",
+      "Frontend",
+      "Good Speaker"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Sat Morning",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "2d8c3cf5-6435-4475-ba73-f4f57269a3d1",
+    "email": "fatima@campus.edu",
+    "password": "$2a$10$d7Zs.6IXzGR/XCC.gAg2uOspztoiTarRbxTbbzq74UvOl9RZ4NNX6",
+    "name": "Fatima Ali",
+    "interests": [
+      "Cybersecurity",
+      "Cloud",
+      "Backend",
+      "Network Security"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Visual",
+    "availability": [
+      "Mon Evening",
+      "Thu Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "9e47de28-73f4-4776-b142-a1881c977d80",
+    "email": "leo@campus.edu",
+    "password": "$2a$10$9YffHhTuHEq39TsmJjW.aeq7xzqq1v5wTjnNMh8Cyro/1juHyeR3a",
+    "name": "Leo Fernandes",
+    "interests": [
+      "Data Engineering",
+      "SQL",
+      "Cloud",
+      "ETL"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Wed Afternoon",
+      "Fri Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "eba78385-a483-4d88-96cb-979801d0e558",
+    "email": "sophia@campus.edu",
+    "password": "$2a$10$PbmvWODQyG1jEHH84e5OSusupjIJZxgNdtBKJ5uhXjPa1eA.v0Nw2",
+    "name": "Sophia Wang",
+    "interests": [
+      "Machine Learning",
+      "Python",
+      "Research",
+      "Good Speaker"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Visual",
+    "availability": [
+      "Mon Evening",
+      "Wed Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "b9bb12eb-a9b4-4494-a642-71406aec2164",
+    "email": "james@campus.edu",
+    "password": "$2a$10$CwZ.L9AMKxqgkqzffiVxiuq4ZXPVyQOXBeivtxYj.oi2qfMoKkSiO",
+    "name": "James Rodriguez",
+    "interests": [
+      "DSA",
+      "Algorithms",
+      "Competitive Programming",
+      "Good Speaker"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Tue Afternoon",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.665Z",
+    "updatedAt": "2026-04-16T10:50:11.665Z"
+  },
+  {
+    "_id": "830ecea8-7595-4d6a-95c3-e666f5dfb0ed",
+    "email": "aisha@campus.edu",
+    "password": "$2a$10$xdHLkbj7cXc8PMsqdvUCauV4yDIh92FcELyQ1sFVUMCDOp1fFvnHO",
+    "name": "Aisha Johnson",
+    "interests": [
+      "Frontend",
+      "Vue.js",
+      "CSS",
+      "Animation"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Mon Evening",
+      "Wed Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "dc85a1a7-4fff-49c4-aaf9-91d1258a79e2",
+    "email": "michael@campus.edu",
+    "password": "$2a$10$0.PmIO5oAougMBUNGoYsReTT4TwOipjewiiUYOlTbIHaWwOr8tvpK",
+    "name": "Michael Brown",
+    "interests": [
+      "Backend",
+      "Python",
+      "Django",
+      "REST APIs"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Tue Evening",
+      "Thu Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "1b339bd2-574e-4b69-90a9-57dacd5b891b",
+    "email": "priyanka@campus.edu",
+    "password": "$2a$10$V8otO6TyQRr.8I9YcVOAM.JXntJr0A1DNTw/56FcXWA8HzicEoAZG",
+    "name": "Priyanka Sharma",
+    "interests": [
+      "Generative AI",
+      "LLMs",
+      "Prompt Engineering",
+      "Fine-tuning"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Wed Evening",
+      "Fri Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "527b37e0-3df6-4f27-aedb-7c6296ef9cf8",
+    "email": "david@campus.edu",
+    "password": "$2a$10$q.sJUB1c9ZL1DPJRpNhp9OSQuWhlVB/yVMcE2j94MeGGJ0UX1hZr6",
+    "name": "David Kim",
+    "interests": [
+      "Blockchain",
+      "Web3",
+      "Smart Contracts",
+      "Cryptography"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Visual",
+    "availability": [
+      "Mon Evening",
+      "Thu Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "b2e08c8c-832d-4ed1-b82e-bce91dcaed97",
+    "email": "emma@campus.edu",
+    "password": "$2a$10$Lk9JxapzNw1Tk/NuMsUPs.r08reLU1OPwWdAtyLZaZJRh4W5.nz76",
+    "name": "Emma Thompson",
+    "interests": [
+      "Data Science",
+      "R",
+      "Statistical Analysis",
+      "Research"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Tue Afternoon",
+      "Wed Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "855cabf9-be7d-4c1c-8b73-1bf0afb3cdd7",
+    "email": "alex@campus.edu",
+    "password": "$2a$10$ZCil3b89xaMBD7hb1VpRzOtBBn.RC70Th4bkGNXWnHt6S77dZTK8C",
+    "name": "Alex Martinez",
+    "interests": [
+      "Full Stack",
+      "MERN",
+      "JavaScript",
+      "TypeScript"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Mon Evening",
+      "Thu Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "0fd7c0e9-42fd-4444-9724-c93c2787ee87",
+    "email": "rachel@campus.edu",
+    "password": "$2a$10$Gj3PQGdjZcuJbZJQ1QDM8.77/woQ4XGI5ULIfk/XYtd67Gka36Ig2",
+    "name": "Rachel Green",
+    "interests": [
+      "UI/UX",
+      "User Research",
+      "Prototyping",
+      "Figma"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Tue Evening",
+      "Wed Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "f87474bc-c303-4144-8858-dfce9358402f",
+    "email": "kevin@campus.edu",
+    "password": "$2a$10$he8gta34g4Fdgo/KpOYeSOPOhfe3YjCvyLaQ3XGF5dwdyiagiI.EK",
+    "name": "Kevin Chen",
+    "interests": [
+      "DevOps",
+      "Terraform",
+      "AWS",
+      "Infrastructure"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Mon Evening",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "362fb9f9-1b46-42ca-8443-4894d829770f",
+    "email": "lisa@campus.edu",
+    "password": "$2a$10$CO8CkSx3IcRgbnw2IfnNPO5yzHxUry5KFbhkPiJfuf.6IOqOobvhC",
+    "name": "Lisa Anderson",
+    "interests": [
+      "Mobile",
+      "React Native",
+      "JavaScript",
+      "Cross-platform"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Visual",
+    "availability": [
+      "Tue Afternoon",
+      "Fri Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "6b5fd82e-59da-4d7e-8f84-78e89d5c7870",
+    "email": "robert@campus.edu",
+    "password": "$2a$10$Fpjy9wZgobjNDOdOZ8ki/upcw6OvOo341kp1oY6OLzUVTUt590SBS",
+    "name": "Robert Taylor",
+    "interests": [
+      "Cybersecurity",
+      "Penetration Testing",
+      "Security Audits",
+      "Good Speaker"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "5b18db45-11a1-4c72-a122-ef12f8029d99",
+    "email": "maria@campus.edu",
+    "password": "$2a$10$C2vHql03L8pGB.YwWtT8TuRTEjemX.C/o.w5rszzhMAcTiYRE8ODe",
+    "name": "Maria Garcia",
+    "interests": [
+      "Data Visualization",
+      "D3.js",
+      "Analytics",
+      "Storytelling"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Visual",
+    "availability": [
+      "Mon Evening",
+      "Tue Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "85d7da18-c6e4-4f1a-bd2c-41808da25344",
+    "email": "william@campus.edu",
+    "password": "$2a$10$y9gvyNUWTgXYW4rxDirAteoE96zlGz7UAtVtY2PzI9RYamGeFJoDC",
+    "name": "William Davis",
+    "interests": [
+      "Backend",
+      "Go",
+      "Microservices",
+      "System Design"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Wed Afternoon",
+      "Thu Evening",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "e5d71215-8c87-4177-b17e-858f98ba7493",
+    "email": "jennifer@campus.edu",
+    "password": "$2a$10$xoIYrIpAQYsKgWDxNxXDQuQn4zXPN4NG6Ysns7v2JSR8D7YOdTNpW",
+    "name": "Jennifer White",
+    "interests": [
+      "Frontend",
+      "Angular",
+      "RxJS",
+      "TypeScript"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Mon Evening",
+      "Tue Afternoon",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "c3d96852-d723-411c-954b-1928ef18a819",
+    "email": "danielw@campus.edu",
+    "password": "$2a$10$y0pZmHowy0BcxaVy9t5ndurNTEvhuN01R3OC3PaZ0yD.WPVGOSz0a",
+    "name": "Daniel Wright",
+    "interests": [
+      "AI",
+      "Computer Vision",
+      "OpenCV",
+      "Image Processing"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Visual",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "caafee57-522e-4bb0-ac88-d1ae02566edc",
+    "email": "sarah@campus.edu",
+    "password": "$2a$10$FgmWmnAPgr1MN6ycaM9LrOM5P.zs1s27dUs6eXvqZStvBtvwmlwDe",
+    "name": "Sarah Miller",
+    "interests": [
+      "Product Management",
+      "Agile",
+      "Scrum",
+      "Leadership"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Mon Evening",
+      "Tue Evening",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "0adb99dd-2ec0-43e5-94ff-188d43d4b62d",
+    "email": "christopher@campus.edu",
+    "password": "$2a$10$zWcxF37ByK799S3/O.N/ee0zWkQbbhbfjfr.5pcPQrr1f.BmCvDJK",
+    "name": "Christopher Wilson",
+    "interests": [
+      "Cloud",
+      "Azure",
+      "DevOps",
+      "CI/CD"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Wed Afternoon",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "238e37a1-a869-4fa2-b38c-06ce9c2d0fba",
+    "email": "amanda@campus.edu",
+    "password": "$2a$10$tIZHgb3KSHtYoolHfLSov.ZrXX2Y6wJMK9.3ytHruMy7E9B3mSe1e",
+    "name": "Amanda Moore",
+    "interests": [
+      "Frontend",
+      "CSS",
+      "Sass",
+      "Responsive Design"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Mon Evening",
+      "Tue Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "34b64812-106f-4820-a56f-bf2ecd4d69b4",
+    "email": "matthew@campus.edu",
+    "password": "$2a$10$xImGXGLtvays28hGaA.nZ.3RWwIr8IhoDwiXoBkZy.11ha5Zl4RHi",
+    "name": "Matthew Taylor",
+    "interests": [
+      "Backend",
+      "Java",
+      "Spring",
+      "Microservices"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.666Z",
+    "updatedAt": "2026-04-16T10:50:11.666Z"
+  },
+  {
+    "_id": "cf5598de-5e76-4627-81f1-fc81a2484de0",
+    "email": "olivia@campus.edu",
+    "password": "$2a$10$2HjUn7d7sQNjfEVVdvBtZe/5gubMgkX0qaLBqiiHhtGY1S7Nwk7Gq",
+    "name": "Olivia Johnson",
+    "interests": [
+      "Data Science",
+      "Machine Learning",
+      "Python",
+      "Good Speaker"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Mon Evening",
+      "Tue Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "5bbe19d9-7f8c-4798-80cf-8100ad31205b",
+    "email": "joseph@campus.edu",
+    "password": "$2a$10$3bcjlGWBdC58X9acZeWGO.Y9ojOkHxflsFk0DSDDywbXoNztqNCI.",
+    "name": "Joseph Anderson",
+    "interests": [
+      "Mobile",
+      "iOS",
+      "Swift",
+      "Core Data"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Wed Afternoon",
+      "Thu Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "ad7d01dd-dd7c-4ea7-8855-b8e66359459f",
+    "email": "emily@campus.edu",
+    "password": "$2a$10$f4NpOA4aV13qTTnZ0kx44etyWahPrKnUmxEeiDiP/VyhqSPlzy9Oq",
+    "name": "Emily Thomas",
+    "interests": [
+      "UI/UX",
+      "Interaction Design",
+      "Prototyping",
+      "User Testing"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Visual",
+    "availability": [
+      "Mon Evening",
+      "Tue Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "4a6dc50e-a7f3-4ccc-a379-96acea1f48a6",
+    "email": "andrew@campus.edu",
+    "password": "$2a$10$sMyNpMRZ7Pt8cae1o16uieuYAJBEe7k0CNS/USN6xyRlKfeHi3TWO",
+    "name": "Andrew Jackson",
+    "interests": [
+      "Full Stack",
+      "Node.js",
+      "Express",
+      "MongoDB"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "a0b3cb0d-36c0-4d07-a369-dc7015969c9b",
+    "email": "jessica@campus.edu",
+    "password": "$2a$10$GsbmuA0xYVB0TKiVUCcACuWCA69krBUF0b3FsTPTkvkofxCjtIv6C",
+    "name": "Jessica White",
+    "interests": [
+      "Frontend",
+      "JavaScript",
+      "Vue.js",
+      "Vuex"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Mon Evening",
+      "Tue Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "a5246081-00e6-427d-9c06-d81c7bed7d8f",
+    "email": "ryan@campus.edu",
+    "password": "$2a$10$SLGeTklAFQpmgF/uiS8tYenB2LxOwTBzta8JKkWbP1ASo5kL7uHrm",
+    "name": "Ryan Harris",
+    "interests": [
+      "Backend",
+      "Python",
+      "Flask",
+      "PostgreSQL"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Wed Afternoon",
+      "Thu Evening",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "81c843ee-0805-4e76-b981-92a944ccee30",
+    "email": "lauren@campus.edu",
+    "password": "$2a$10$Nn3UmazQ/8YslHJPhPoOMOFNtPtwFwq2qK8j3w15.891crY1PqkDy",
+    "name": "Lauren Martin",
+    "interests": [
+      "Data Analytics",
+      "Power BI",
+      "SQL",
+      "Business Intelligence"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Visual",
+    "availability": [
+      "Mon Evening",
+      "Tue Afternoon",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "c5e47459-6544-4434-8443-038498acd0db",
+    "email": "joshua@campus.edu",
+    "password": "$2a$10$hhEym4ER9MWLDzU6/E4TLexhde3R11uv0pgzZtzmUWr7s1QZYsoP6",
+    "name": "Joshua Thompson",
+    "interests": [
+      "DevOps",
+      "Jenkins",
+      "Docker",
+      "Kubernetes"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "5ecff8ed-3dd4-4423-baf2-b4467c94b387",
+    "email": "ashley@campus.edu",
+    "password": "$2a$10$0gvpwN9QXsPgWO6G77dr0uPGgQ6iF7q5NKYoaLIGQHfdol8wycr4O",
+    "name": "Ashley Garcia",
+    "interests": [
+      "Frontend",
+      "React",
+      "Redux",
+      "State Management"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Mon Evening",
+      "Tue Evening",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "56b504b8-e5d9-4cf8-97a8-99b797ed94fe",
+    "email": "nathan@campus.edu",
+    "password": "$2a$10$9GMj3jXS5L/z2zGRvMFZhOy614z6Itd7WusEIfUuddybkClhUUqrW",
+    "name": "Nathan Martinez",
+    "interests": [
+      "Backend",
+      "C#",
+      ".NET",
+      "Entity Framework"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Wed Afternoon",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "d10ffb6a-868c-4f55-9ed7-d259f333b990",
+    "email": "samantha@campus.edu",
+    "password": "$2a$10$3n9zi2JUD7vjmTNaGW78a.80ef.7YXejegMqPRIiuOyi98PlGDjiC",
+    "name": "Samantha Robinson",
+    "interests": [
+      "Mobile",
+      "Android",
+      "Java",
+      "Material Design"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Mon Evening",
+      "Tue Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "e3ca0d29-4563-4993-949f-8f1413dd0e46",
+    "email": "tyler@campus.edu",
+    "password": "$2a$10$QM9/bH5vBJDpHARvVObQcecPppxJvSewCJIIcBn62X8uY0nT81hS6",
+    "name": "Tyler Clark",
+    "interests": [
+      "AI",
+      "NLP",
+      "BERT",
+      "Text Processing"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Visual",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "1a8af570-0fac-46c6-9f67-b24e605f900a",
+    "email": "brittany@campus.edu",
+    "password": "$2a$10$NKfyZ0r6azMNi8joaZawVOdIdu9R4NrHOcl/HjpP4/YhNM3RtCI9O",
+    "name": "Brittany Lewis",
+    "interests": [
+      "UI/UX",
+      "Design Thinking",
+      "Wireframing",
+      "Good Speaker"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Mon Evening",
+      "Tue Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "67341edb-1abc-4dde-927d-e3acea4cd743",
+    "email": "brandon@campus.edu",
+    "password": "$2a$10$/RLSzg8V0FVK6TtNa0Nu9uVjd.CvcSPRdXEdIiUwtny397UL7YF/6",
+    "name": "Brandon Walker",
+    "interests": [
+      "Full Stack",
+      "Django",
+      "React",
+      "PostgreSQL"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Wed Afternoon",
+      "Thu Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "2dfadfb0-e361-40bd-b367-ef602ab81a9d",
+    "email": "victoria@campus.edu",
+    "password": "$2a$10$QqnUCug7h//eJvjzGH5NZ.9zjsPTiAlnJRFdr1NcMCmnruqaG4nby",
+    "name": "Victoria Hall",
+    "interests": [
+      "Data Science",
+      "Tableau",
+      "Analytics",
+      "Storytelling"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Mon Evening",
+      "Tue Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "68bc6d2f-630f-46aa-b4d3-9163d164a4f4",
+    "email": "justin@campus.edu",
+    "password": "$2a$10$9LCbTPTsIZV/tOZqOX39neT7UOHhHr7GIPCQHk8DfHFQNoAj/D5wu",
+    "name": "Justin Allen",
+    "interests": [
+      "Backend",
+      "Ruby",
+      "Rails",
+      "PostgreSQL"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "823c803f-d215-4688-9c09-321034b3b989",
+    "email": "monica@campus.edu",
+    "password": "$2a$10$xQFj1RzK/GZBAc2qUsHafO/pg3aXj/u2VJ7qwe/zNGb48gdUX7V0W",
+    "name": "Monica Young",
+    "interests": [
+      "Frontend",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Mon Evening",
+      "Tue Evening",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "63df4c93-ea00-494c-b954-9c9a3a6468ae",
+    "email": "sean@campus.edu",
+    "password": "$2a$10$8A9Ajho5aYl9vYmLIzkBXey0AnMoV854ZTbIwkdTP2bIR0cjgW6N2",
+    "name": "Sean King",
+    "interests": [
+      "Cybersecurity",
+      "Network Security",
+      "Firewalls",
+      "Good Speaker"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Visual",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "94788177-c3d6-4314-ad09-daa25413de01",
+    "email": "diana@campus.edu",
+    "password": "$2a$10$CEELl.aWjyvMMn/LiSZSO.rXVuSZ64mkgJ8cRzwdnVAhEflgY0EB.",
+    "name": "Diana Wright",
+    "interests": [
+      "Product Management",
+      "Market Research",
+      "Analytics",
+      "Leadership"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Mon Evening",
+      "Tue Afternoon",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "913afed6-56db-4f58-b6b8-879e82ce9f29",
+    "email": "brian@campus.edu",
+    "password": "$2a$10$AG.rGuVeP7VZiqWPRLy/g.YqC3pvPcNsgdkeEgEzVxFhehilc1GyS",
+    "name": "Brian Lopez",
+    "interests": [
+      "Cloud",
+      "GCP",
+      "BigQuery",
+      "Data Engineering"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Reading/Writing",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "7ed7fa3d-8926-45e1-9d04-4f93ca8820d8",
+    "email": "katherine@campus.edu",
+    "password": "$2a$10$9v8k7ckvBcGBv/.jFuRti.g57w7JDMg9p5twuFKAleB5UVyqVDZt.",
+    "name": "Katherine Hill",
+    "interests": [
+      "Frontend",
+      "Svelte",
+      "JavaScript",
+      "Web Components"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Mon Evening",
+      "Tue Evening",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "a12f386f-b576-438e-9879-d9f7d6b8bc03",
+    "email": "eric@campus.edu",
+    "password": "$2a$10$zLcsS/VJHdYBnCVLVeVIHefzsvppx0btBuiaRVOpncFIzhwQZcsDq",
+    "name": "Eric Scott",
+    "interests": [
+      "Backend",
+      "PHP",
+      "Laravel",
+      "MySQL"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Visual",
+    "availability": [
+      "Wed Afternoon",
+      "Thu Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "8b27a7f2-a24e-4ebd-b0a5-a6f31aa6481b",
+    "email": "nancy@campus.edu",
+    "password": "$2a$10$I2p8b/JuAdKQF9cga4uba.yxuRkUcqwtwddAtYLkbuP/Nh7HQ.vaG",
+    "name": "Nancy Green",
+    "interests": [
+      "Data Analytics",
+      "Excel",
+      "VBA",
+      "Business Intelligence"
+    ],
+    "skillLevel": "Beginner",
+    "learningStyle": "Kinesthetic",
+    "availability": [
+      "Mon Evening",
+      "Tue Afternoon",
+      "Sat Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "d09b92f7-9fd5-4531-91c4-db570dd9c08f",
+    "email": "aaron@campus.edu",
+    "password": "$2a$10$lPxFfjPw/EWLUVtGDK0kOeQLMnnuoMe6pKVYKE.s9i96pqPiJXBxy",
+    "name": "Aaron Adams",
+    "interests": [
+      "Full Stack",
+      "Next.js",
+      "Prisma",
+      "GraphQL"
+    ],
+    "skillLevel": "Advanced",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Wed Evening",
+      "Thu Afternoon",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "ae684e29-e5cf-438b-901d-d81cb9172de6",
+    "email": "heather@campus.edu",
+    "password": "$2a$10$fVJvD8gX2.SQAhN0.JGTqexjHMg9rUQGNBBB9SlJkgDERZWoWHfja",
+    "name": "Heather Baker",
+    "interests": [
+      "UI/UX",
+      "Accessibility",
+      "WCAG",
+      "Inclusive Design"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Auditory",
+    "availability": [
+      "Mon Evening",
+      "Tue Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:50:11.667Z",
+    "updatedAt": "2026-04-16T10:50:11.667Z"
+  },
+  {
+    "_id": "ae0f9644-ea97-4eb3-8218-a85e6488592e",
+    "email": "suyash@campus.edu",
+    "password": "$2a$10$Zre1FSNf3azAPoIzrIsUxuox6aov8GUrypbTlPCLIN43.MRvfG3j.",
+    "name": "Suyash",
+    "interests": [
+      "AI"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Mon Evening",
+      "Sat Morning",
+      "Thu Afternoon",
+      "Tue Afternoon",
+      "Tue Evening",
+      "Thu Evening",
+      "Sun Morning",
+      "Fri Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T10:55:27.274Z",
+    "updatedAt": "2026-04-16T10:55:57.551Z"
+  },
+  {
+    "_id": "a4da6bfe-2b76-4b12-a945-966675f60e6c",
+    "email": "jayesh@campus.edu",
+    "password": "$2a$10$UHAXDHdwyyCmlUR0uK2iyOsjlmTBRJh09BScqzycczkdWHbCf7Il.",
+    "name": "Jayesh chavan",
+    "interests": [
+      "AI"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Mon Evening",
+      "Tue Afternoon",
+      "Thu Afternoon",
+      "Thu Evening",
+      "Tue Evening",
+      "Fri Evening",
+      "Sun Morning"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-16T11:09:58.918Z",
+    "updatedAt": "2026-04-16T11:10:47.930Z"
+  }
+]
