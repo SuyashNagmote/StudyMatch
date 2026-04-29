@@ -1,0 +1,58 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: studymatch-deployment
+  labels:
+    app: studymatch
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: studymatch
+  template:
+    metadata:
+      labels:
+        app: studymatch
+    spec:
+      containers:
+      - name: studymatch
+        image: gcr.io/PROJECT_ID/studymatch:latest # Replace with your project ID and image registry
+        ports:
+        - containerPort: 5000
+        env:
+        - name: NODE_ENV
+          value: "production"
+        - name: PORT
+          value: "5000"
+        - name: CLIENT_URL
+          value: "https://studymatch.example.com"
+        - name: MONGODB_URI
+          valueFrom:
+            secretKeyRef:
+              name: studymatch-secrets
+              key: MONGODB_URI
+        - name: JWT_SECRET
+          valueFrom:
+            secretKeyRef:
+              name: studymatch-secrets
+              key: JWT_SECRET
+        resources:
+          requests:
+            cpu: "250m"
+            memory: "256Mi"
+          limits:
+            cpu: "500m"
+            memory: "512Mi"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: studymatch-service
+spec:
+  type: LoadBalancer
+  selector:
+    app: studymatch
+  ports:
+    - protocol: TCP
+      port: 80
+      targetPort: 5000

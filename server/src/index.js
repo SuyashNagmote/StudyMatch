@@ -5,6 +5,11 @@ import mongoose from "mongoose";
 import { connectDB } from "./config/db.js";
 import authRoutes from "./routes/authRoutes.js";
 import matchRoutes from "./routes/matchRoutes.js";
+import path from "path";
+import { fileURLToPath } from "url";
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
 
 dotenv.config({ path: new URL("../.env", import.meta.url) });
 
@@ -49,6 +54,15 @@ app.use("/api/match", matchRoutes);
 app.use("/api", (_req, res) => {
   res.status(404).json({ message: "API route not found" });
 });
+
+if (process.env.NODE_ENV === "production") {
+  const clientDistPath = path.join(__dirname, "../../client/dist");
+  app.use(express.static(clientDistPath));
+  
+  app.get("*", (req, res) => {
+    res.sendFile(path.join(clientDistPath, "index.html"));
+  });
+}
 app.use((error, _req, res, _next) => {
   if (error instanceof SyntaxError && "body" in error) {
     return res.status(400).json({ message: "Invalid JSON payload" });

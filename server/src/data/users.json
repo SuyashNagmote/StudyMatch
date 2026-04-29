@@ -1617,5 +1617,30 @@
     "profileCompleted": true,
     "createdAt": "2026-04-16T11:09:58.918Z",
     "updatedAt": "2026-04-16T11:10:47.930Z"
+  },
+  {
+    "_id": "4378507e-d380-4d94-a41a-76822659e374",
+    "email": "rahulas@campus.edu",
+    "password": "$2a$10$ngY6Bhi22pQ4m33TIFj4Nu2StVwqupsvUu5a8L/cA11TkxvRI4UiK",
+    "name": "Rahulas",
+    "interests": [
+      "AI",
+      "DSA",
+      "Security",
+      "Frontend"
+    ],
+    "skillLevel": "Intermediate",
+    "learningStyle": "Collaborative",
+    "availability": [
+      "Sat Morning",
+      "Thu Afternoon",
+      "Wed Evening",
+      "Tue Evening",
+      "Sun Morning",
+      "Thu Evening"
+    ],
+    "profileCompleted": true,
+    "createdAt": "2026-04-27T19:34:59.439Z",
+    "updatedAt": "2026-04-27T19:36:16.470Z"
   }
 ]
